@@ -211,10 +211,12 @@ h5{
     }
     .sterlions{
     flex-direction:column;
+    width: auto;
+    overflow: hidden;
     }
     .sterlions-intro{
         height: 80vh;
-        width: 100%;
+        width: 99%;
         margin-top: -50px;
     }
     .intro-container h2{
@@ -251,11 +253,11 @@ h5{
         margin-left: 10px;
     }
     #create-account{
-        width: 170%;
-        margin-left: 10px;
+        width: 210%;
  }
     #toggle-password{
         margin-left: 10px;
+        width: 110%;
     }
     .checkbox-container{
         margin-left: 12px;
@@ -264,6 +266,7 @@ h5{
     }
     #login-span{
         margin-left: 15px;
+        width: fit-content;
     }
     #icon-one{
         position: absolute;
