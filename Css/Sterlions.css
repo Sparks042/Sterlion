@@ -211,8 +211,8 @@ h5{
     }
     .sterlions{
     flex-direction:column;
-    width: auto;
     overflow: hidden;
+    width: 105%;
     }
     .sterlions-intro{
         height: 80vh;
